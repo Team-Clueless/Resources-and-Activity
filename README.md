@@ -1,5 +1,8 @@
 # Resources
-This includes resources and other aids used in this task
+This includes resources and other aids used in this task. 
+Also add them in the google sheet if you will (It also has the Sensors - Cost and Accuracy sheet):
+
+[Google Sheet](https://docs.google.com/spreadsheets/d/1677pbPVrC0k_S-_Ag4LNA7e_MAPI6DYkt85SMPdUM4o/edit?usp=sharing)
 
 Links
 -----
