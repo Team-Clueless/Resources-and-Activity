@@ -10,7 +10,7 @@ Links
 #### Virat simulation files
 https://drive.google.com/drive/folders/1z8NtWolK-N9I7Y1f9hneI6UDtDOa15_g?usp=sharing
 
-
+------
 
 # Major Tasks - for the whole team
 
@@ -19,9 +19,16 @@ https://drive.google.com/drive/folders/1z8NtWolK-N9I7Y1f9hneI6UDtDOa15_g?usp=sha
 - [ ] Choosing the right sensors and plugins for the bot.
 - [ ] Setting up object and lane detection models and integrating them with ROS.
 - [ ] Setting up the navigation stack for the bot - the path-planners and localisation techniques.
-- [ ] Finding ~or making~ a controller.
+- [ ] Finding ~or making~ a controller.  
 
 - [ ] Going through the IGVC guide. 
+
+### Questions to ask at tomorrow's meeting  
+
+- Do we have to read the whole IGVC guide? What parts should we focus on?
+- Which year's guide should we refer? 2019 or 2020?
+- Add your questions here...
+
 
 ### Abhijit
 
