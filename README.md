@@ -31,6 +31,7 @@ https://drive.google.com/drive/folders/1z8NtWolK-N9I7Y1f9hneI6UDtDOa15_g?usp=sha
 
 
 ### Abhijit
+- [ ] Finish workspace setup
 
 ### Ankit
 
