@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1z8NtWolK-N9I7Y1f9hneI6UDtDOa15_g?usp=sha
 
 
 
-### Major Tasks - for the whole team
+# Major Tasks - for the whole team
 
 - [ ] Choosing the relevant files from the resources given.
 - [ ] Spawning a "dry model" of the bot without any sensors, plugins or such.
@@ -23,8 +23,8 @@ https://drive.google.com/drive/folders/1z8NtWolK-N9I7Y1f9hneI6UDtDOa15_g?usp=sha
 
 - [ ] Going through the IGVC guide. 
 
-#### Abhijit
+### Abhijit
 
-#### Ankit
+### Ankit
 
-#### Ashwin
+### Ashwin
