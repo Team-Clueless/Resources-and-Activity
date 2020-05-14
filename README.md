@@ -12,10 +12,16 @@ https://drive.google.com/drive/folders/1z8NtWolK-N9I7Y1f9hneI6UDtDOa15_g?usp=sha
 
 
 
-### Checklists
+### Major Tasks - for the whole team
 
-- [ ] This is to be done
-- [x] This has been done
+- [ ] Choosing the relevant files from the resources given.
+- [ ] Spawning a "dry model" of the bot without any sensors, plugins or such.
+- [ ] Choosing the right sensors and plugins for the bot.
+- [ ] Setting up object and lane detection models and integrating them with ROS.
+- [ ] Setting up the navigation stack for the bot - the path-planners and localisation techniques.
+- [ ] Finding ~or making~ a controller.
+
+- [ ] Going through the IGVC guide. 
 
 #### Abhijit
 
