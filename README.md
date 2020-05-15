@@ -9,7 +9,7 @@ Links
 
 #### Virat simulation files
 https://drive.google.com/drive/folders/1z8NtWolK-N9I7Y1f9hneI6UDtDOa15_g?usp=sharing
-#### Plugins For Sensors/Controller
+#### Using Plugins For Sensors/Controller
 http://gazebosim.org/tutorials?tut=ros_gzplugins
 
 ------
