@@ -13,6 +13,8 @@ https://drive.google.com/drive/folders/1z8NtWolK-N9I7Y1f9hneI6UDtDOa15_g?usp=sha
 http://gazebosim.org/tutorials?tut=ros_gzplugins
 #### Steps to ROSify custom build robots
 https://answers.ros.org/question/270089/how-to-implement-ros-in-my-custom-made-robot/
+#### Connecting robot with ros using gazebo plugins
+http://gazebosim.org/tutorials?tut=ros_gzplugins
 
 ------
 
