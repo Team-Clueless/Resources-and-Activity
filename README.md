@@ -29,6 +29,8 @@ https://drive.google.com/drive/folders/1z8NtWolK-N9I7Y1f9hneI6UDtDOa15_g?usp=sha
 - Which year's guide should we refer? 2019 or 2020?
 - Dimensions of the bot
 - Should we use URDF or SDF?
+- How to go about selecting the sensors?
+
 
 
 ### Abhijit
