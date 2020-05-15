@@ -32,6 +32,7 @@ http://gazebosim.org/tutorials?tut=ros_gzplugins
 - Dimensions of the bot
 - Should we use URDF or SDF?
 - How to go about selecting the sensors?
+- Significance of that box in the ramp world?
 
 
 
