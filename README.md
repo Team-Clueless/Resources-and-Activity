@@ -27,7 +27,8 @@ https://drive.google.com/drive/folders/1z8NtWolK-N9I7Y1f9hneI6UDtDOa15_g?usp=sha
 
 - Do we have to read the whole IGVC guide? What parts should we focus on?
 - Which year's guide should we refer? 2019 or 2020?
-- Add your questions here...
+- Dimensions of the bot
+- Should we use URDF or SDF?
 
 
 ### Abhijit
