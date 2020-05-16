@@ -29,17 +29,6 @@ http://gazebosim.org/tutorials?tut=ros_gzplugins
 
 - [ ] Going through the IGVC guide. 
 
-### Questions to ask at tomorrow's meeting  
-
-- Do we have to read the whole IGVC guide? What parts should we focus on?
-- Which year's guide should we refer? 2019 or 2020?
-- Dimensions of the bot
-- Should we use URDF or SDF?
-- How to go about selecting the sensors?
-- Significance of that box in the ramp world?
-
-
-
 ### Abhijit
 - [ ] Finish workspace setup
 - [ ] Assemble the bot.
