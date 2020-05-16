@@ -20,8 +20,8 @@ http://gazebosim.org/tutorials?tut=ros_gzplugins
 
 # Major Tasks - for the whole team
 
-- [ ] Choosing the relevant files from the resources given.
-- [ ] Spawning a "dry model" of the bot without any sensors, plugins or such.
+- [x] Choosing the relevant files from the resources given.
+- [x] Spawning a "dry model" of the bot without any sensors, plugins or such.
 - [ ] Choosing the right sensors and plugins for the bot.
 - [ ] Setting up object and lane detection models and integrating them with ROS.
 - [ ] Setting up the navigation stack for the bot - the path-planners and localisation techniques.
@@ -48,5 +48,5 @@ http://gazebosim.org/tutorials?tut=ros_gzplugins
 
 ### Ashwin
 - [x] created basic launch files for worlds, tweaked the igvc_basic.world a little to avoid the error
-- [ ] add bot model to launch file
+- [x] add bot model to launch file
 
