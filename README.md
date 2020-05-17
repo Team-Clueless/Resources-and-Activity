@@ -48,4 +48,5 @@ http://gazebosim.org/tutorials?tut=ros_gzplugins
 ### Ashwin
 - [x] created basic launch files for worlds, tweaked the igvc_basic.world a little to avoid the error
 - [x] add bot model to launch file
+- [x] teleop package complete
 
