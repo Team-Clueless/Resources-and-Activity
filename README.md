@@ -30,8 +30,7 @@ http://gazebosim.org/tutorials?tut=ros_gzplugins
 - [ ] Going through the IGVC guide. 
 
 ### Abhijit
-- [ ] Finish workspace setup
-- [ ] Assemble the bot.
+- [x] Finish workspace setup
 
 ### Ankit
 
