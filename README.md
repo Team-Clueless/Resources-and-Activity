@@ -29,6 +29,11 @@ http://gazebosim.org/tutorials?tut=ros_gzplugins
 
 - [ ] Going through the IGVC guide. 
 
+## Some design reports for reference
+
+[Bender](http://www.igvc.org/design/2019/12.pdf)
+
+
 ### Abhijit
 - [x] Finish workspace setup
 
