@@ -17,6 +17,12 @@ https://answers.ros.org/question/270089/how-to-implement-ros-in-my-custom-made-r
 http://gazebosim.org/tutorials?tut=ros_gzplugins
 
 ------
+# Current Project State
+
+* Fixed errors in all three world files, collision bugs, xml syntax bugs etc
+* Assembeled virat from meshes
+* Added cameras(x2) and a Differential drive
+* Added teleop package
 
 # Major Tasks - for the whole team
 
