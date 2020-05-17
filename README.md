@@ -37,8 +37,7 @@ http://gazebosim.org/tutorials?tut=ros_gzplugins
 
 ## Some design reports for reference
 
-[Bender](http://www.igvc.org/design/2019/12.pdf)
-
+[Bender](http://www.igvc.org/design/2019/12.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Virat](http://www.igvc.org/design/2019/23.pdf)
 
 ### Abhijit
 - [x] Finish workspace setup
