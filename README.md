@@ -43,7 +43,8 @@ http://gazebosim.org/tutorials?tut=ros_gzplugins
 - [x] Finish workspace setup
 
 ### Ankit
-
+- [x] created urdf file without sensors for dry sim
+- [x] added laser sensor
 ### Ashwin
 - [x] created basic launch files for worlds, tweaked the igvc_basic.world a little to avoid the error
 - [x] add bot model to launch file
