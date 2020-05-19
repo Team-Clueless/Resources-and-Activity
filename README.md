@@ -23,6 +23,8 @@ http://gazebosim.org/tutorials?tut=ros_gzplugins
 * Assembeled virat from meshes
 * Added cameras(x2) and a Differential drive
 * Added teleop package
+* Added lidar
+* Added slam package for mapping surroundings
 
 # Major Tasks - for the whole team
 
@@ -49,4 +51,5 @@ http://gazebosim.org/tutorials?tut=ros_gzplugins
 - [x] created basic launch files for worlds, tweaked the igvc_basic.world a little to avoid the error
 - [x] add bot model to launch file
 - [x] teleop package complete
+- [x] make slam package
 
