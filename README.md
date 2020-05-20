@@ -4,17 +4,43 @@ Also add them in the google sheet if you will (It also has the Sensors - Cost an
 
 [Google Sheet](https://docs.google.com/spreadsheets/d/1677pbPVrC0k_S-_Ag4LNA7e_MAPI6DYkt85SMPdUM4o/edit?usp=sharing)
 
-Links
------
+## Links
 
-#### Virat simulation files
-https://drive.google.com/drive/folders/1z8NtWolK-N9I7Y1f9hneI6UDtDOa15_g?usp=sharing
+Go-to Tutorials
+---------------
+
 #### Using Plugins For Sensors/Controller
 http://gazebosim.org/tutorials?tut=ros_gzplugins
+
 #### Steps to ROSify custom build robots
 https://answers.ros.org/question/270089/how-to-implement-ros-in-my-custom-made-robot/
+
 #### Connecting robot with ros using gazebo plugins
 http://gazebosim.org/tutorials?tut=ros_gzplugins
+
+Collision detection and Path planning
+-------------------------------------
+
+#### A Research Paper on Collision detection and obstacle avoidance
+https://upcommons.upc.edu/bitstream/handle/2117/120371/tfm-noelia-llamazares-lvarez.pdf?sequence=1&isAllowed=y
+
+Controller
+----------
+
+#### Motion control algorithms for sensor equipped robots
+http://www-personal.umich.edu/~ykoren/uploads/Motion_control_algorithms_for_sensor-equipped_robots.pdf
+
+#### MPC Controller
+https://github.com/Jeremy26/mpc-controller
+
+#### Article on PID Control
+https://medium.com/@jaems33/understanding-robot-motion-pid-control-8931899c31df
+
+Lane Detection
+--------------
+
+#### Curvature of lane and offset from centre of lane
+https://github.com/ftrang88/EC601-Fall2017-Seamless-Track-Detection/tree/master/Our_main_code
 
 ------
 # Current Project State
