@@ -15,6 +15,18 @@ Go-to Tutorials
 
 [Connecting robot with ros using gazebo plugins - Gazebosim](http://gazebosim.org/tutorials?tut=ros_gzplugins)
 
+An excellent 5 part article series on self driving
+--------------------------------------------------
+
+* [Sensor fusion with Kalman filter](https://medium.com/@jonathan_hui/self-driving-object-tracking-intuition-and-the-math-behind-kalman-filter-657d11dd0a90)
+
+* [Extended and unscented Kalman filter](https://medium.com/@jonathan_hui/self-driving-car-tracking-cars-with-extended-and-unscented-kalman-filter-ced448fd90e2)
+
+* [Localisation with particle filter](https://medium.com/@jonathan_hui/tracking-a-self-driving-car-with-particle-filter-ef61f622a3e9)
+
+* [MPC v/s PID Control](https://medium.com/@jonathan_hui/lane-keeping-in-autonomous-driving-with-model-predictive-control-50f06e989bc9)
+
+* [Path finding for self driving](https://medium.com/@jonathan_hui/self-driving-car-path-planning-to-maneuver-the-traffic-ac63f5a620e2)
 
 Collision detection and Path planning
 -------------------------------------
