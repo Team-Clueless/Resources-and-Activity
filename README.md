@@ -75,11 +75,14 @@ Lane Detection
 [Bender](http://www.igvc.org/design/2019/12.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Virat](http://www.igvc.org/design/2019/23.pdf)
 
 ### Abhijit
-- [x] Finish workspace setup
+- [x] added wheels and started the assembly
+- [x] created the xacro and gazebo files for better handling of files.
+- [x] added cameras 
 
 ### Ankit
 - [x] created urdf file without sensors for dry sim
 - [x] added laser sensor
+
 ### Ashwin
 - [x] created basic launch files for worlds, tweaked the igvc_basic.world a little to avoid the error
 - [x] add bot model to launch file
