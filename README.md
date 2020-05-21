@@ -36,6 +36,9 @@ https://github.com/Jeremy26/mpc-controller
 #### Article on PID Control
 https://medium.com/@jaems33/understanding-robot-motion-pid-control-8931899c31df
 
+#### Lane keeping in autonomous driving with Model Predictive Control & PID
+https://medium.com/@jonathan_hui/lane-keeping-in-autonomous-driving-with-model-predictive-control-50f06e989bc9
+
 Lane Detection
 --------------
 
