@@ -9,41 +9,33 @@ Also add them in the google sheet if you will (It also has the Sensors - Cost an
 Go-to Tutorials
 ---------------
 
-#### Using Plugins For Sensors/Controller
-http://gazebosim.org/tutorials?tut=ros_gzplugins
+[Using Plugins For Sensors/Controller - Gazebosim](http://gazebosim.org/tutorials?tut=ros_gzplugins)
 
-#### Steps to ROSify custom build robots
-https://answers.ros.org/question/270089/how-to-implement-ros-in-my-custom-made-robot/
+[Steps to ROSify custom build robots - ROS Answers](https://answers.ros.org/question/270089/how-to-implement-ros-in-my-custom-made-robot/)
 
-#### Connecting robot with ros using gazebo plugins
-http://gazebosim.org/tutorials?tut=ros_gzplugins
+[Connecting robot with ros using gazebo plugins - Gazebosim](http://gazebosim.org/tutorials?tut=ros_gzplugins)
+
 
 Collision detection and Path planning
 -------------------------------------
 
-#### A Research Paper on Collision detection and obstacle avoidance
-https://upcommons.upc.edu/bitstream/handle/2117/120371/tfm-noelia-llamazares-lvarez.pdf?sequence=1&isAllowed=y
+[A Research Paper on Collision detection and obstacle avoidance - pdf](https://upcommons.upc.edu/bitstream/handle/2117/120371/tfm-noelia-llamazares-lvarez.pdf?sequence=1&isAllowed=y)
 
 Controller
 ----------
 
-#### Motion control algorithms for sensor equipped robots
-http://www-personal.umich.edu/~ykoren/uploads/Motion_control_algorithms_for_sensor-equipped_robots.pdf
+[Motion control algorithms for sensor equipped robots - pdf](http://www-personal.umich.edu/~ykoren/uploads/Motion_control_algorithms_for_sensor-equipped_robots.pdf)
 
-#### MPC Controller
-https://github.com/Jeremy26/mpc-controller
+[MPC Controller - GitHub](https://github.com/Jeremy26/mpc-controller)
 
-#### Article on PID Control
-https://medium.com/@jaems33/understanding-robot-motion-pid-control-8931899c31df
+[Article on PID Control](https://medium.com/@jaems33/understanding-robot-motion-pid-control-8931899c31df)
 
-#### Lane keeping in autonomous driving with Model Predictive Control & PID
-https://medium.com/@jonathan_hui/lane-keeping-in-autonomous-driving-with-model-predictive-control-50f06e989bc9
+[Lane keeping in autonomous driving with Model Predictive Control & PID - Article](https://medium.com/@jonathan_hui/lane-keeping-in-autonomous-driving-with-model-predictive-control-50f06e989bc9)
 
 Lane Detection
 --------------
 
-#### Curvature of lane and offset from centre of lane
-https://github.com/ftrang88/EC601-Fall2017-Seamless-Track-Detection/tree/master/Our_main_code
+[Curvature of lane and offset from centre of lane - Github](https://github.com/ftrang88/EC601-Fall2017-Seamless-Track-Detection/tree/master/Our_main_code)
 
 ------
 # Current Project State
