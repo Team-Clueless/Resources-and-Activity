@@ -6,8 +6,9 @@ Also add them in the google sheet if you will (It also has the Sensors - Cost an
 
 ## Found some LIDARs
 
-- [List of some LIDARs](https://cyberbotics.com/doc/guide/lidar-sensors)
-- *Not related to our project*: [Luminar Lidars](https://techcrunch.com/2020/05/06/volvo-to-use-luminars-lidar-in-production-vehicles-to-unlock-automated-driving-on-highways/): A startup bought by Volvo. Inexpensive LIDARs (from $500). Too bad they're coming up in 2022.
+- [List of some LiDARs](https://cyberbotics.com/doc/guide/lidar-sensors)
+- [Comparing LiDARs](https://www.generationrobots.com/blog/en/how-to-select-the-right-lidar/)
+- *Not related to our project*: [Luminar LiDARs](https://techcrunch.com/2020/05/06/volvo-to-use-luminars-lidar-in-production-vehicles-to-unlock-automated-driving-on-highways/): A startup bought by Volvo. Inexpensive LIDARs (from $500). Too bad they're coming up in 2022.
 
 # Links
 
