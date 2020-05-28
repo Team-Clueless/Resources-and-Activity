@@ -54,6 +54,7 @@ Lane Detection
 --------------
 
 [Curvature of lane and offset from centre of lane - Github](https://github.com/ftrang88/EC601-Fall2017-Seamless-Track-Detection/tree/master/Our_main_code)
+[Some thesis that we're following](https://vtechworks.lib.vt.edu/bitstream/handle/10919/33261/bacha_thesis.pdf?sequence=1&isAllowed=y)
 
 ------
 # Current Project State
