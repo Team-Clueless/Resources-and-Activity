@@ -97,4 +97,4 @@ Lane Detection
 - [x] MPC controller for differential drive
 - [x] Added fake node for controller diagnostics
 - [x] Path visualizer for controller in Rviz
-- [x] SMake workspace for controller diagnostics
+- [x] CMake workspace for controller diagnostics
