@@ -44,8 +44,6 @@ Controller
 
 [Motion control algorithms for sensor equipped robots - pdf](http://www-personal.umich.edu/~ykoren/uploads/Motion_control_algorithms_for_sensor-equipped_robots.pdf)
 
-[MPC Controller - GitHub](https://github.com/Jeremy26/mpc-controller)
-
 [Article on PID Control](https://medium.com/@jaems33/understanding-robot-motion-pid-control-8931899c31df)
 
 [Lane keeping in autonomous driving with Model Predictive Control & PID - Article](https://medium.com/@jonathan_hui/lane-keeping-in-autonomous-driving-with-model-predictive-control-50f06e989bc9)
@@ -74,7 +72,7 @@ Lane Detection
 - [ ] Choosing the right sensors and plugins for the bot.
 - [ ] Setting up object and lane detection models and integrating them with ROS.
 - [ ] Setting up the navigation stack for the bot - the path-planners and localisation techniques.
-- [ ] Finding ~or making~ a controller.  
+- [x] Finding ~or making~ a controller.  
 
 - [ ] Going through the IGVC guide. 
 
@@ -96,4 +94,4 @@ Lane Detection
 - [x] add bot model to launch file
 - [x] teleop package complete
 - [x] make slam package
-- [x] MPC controller prototype
+- [x] MPC controller for differential drive
