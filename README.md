@@ -95,3 +95,6 @@ Lane Detection
 - [x] teleop package complete
 - [x] make slam package
 - [x] MPC controller for differential drive
+- [x] Added fake node for controller diagnostics
+- [x] Path visualizer for controller in Rviz
+- [x] SMake workspace for controller diagnostics
